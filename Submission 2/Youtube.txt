@@ -1,1 +1,5 @@
-A
+Paper Title: Including Signed Languages in Natural Language Processing 
+Team Presentation Video: https://www.youtube.com/watch?v=9Tbp2vuRW0I
+
+
+Paper Link: https://aclanthology.org/2021.acl-long.570/
