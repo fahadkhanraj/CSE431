@@ -1,6 +1,3 @@
-Unlisted youtube video:
-
-
 Conference submitted paper / paper submission / login Link:
 
 https://cmt3.research.microsoft.com/ICCTA2023/Submission/Summary/22
@@ -8,9 +5,6 @@ https://cmt3.research.microsoft.com/ICCTA2023/Submission/Summary/22
 
 Paper title:
 Analyzing Taste from Review Word Choices using Natural Language Processing
-
-
-Paper presentation (anyone can view without login):
 
 
 Paper submission date (to workshop/conference):
