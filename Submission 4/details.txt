@@ -1,6 +1,8 @@
 Conference submitted paper / paper submission / login Link:
 
 https://cmt3.research.microsoft.com/ICCTA2023/Submission/Summary/22
+https://easychair.org/conferences/submission?submission=6341220;a=30124370
+
 
 
 Paper title:
@@ -10,31 +12,35 @@ Analyzing Taste from Review Word Choices using Natural Language Processing
 Paper submission date (to workshop/conference):
 3rd January, 2023
 
-Paper submission ID: 22 (received) from conference/workshop
-
+Paper submission ID: 22 for ICCTA 
+3775 for easychair
 
 Conference Name:
 Iccta
+easychair
 
 Conference URL:
 http://www.iccta.net/cfp.html
+https://easychair.org/conferences/?conf=jcdl2023
+
+
 
 Group Number:
 01
 
 Group Members:
 
-Fahad Khan Raj
+( Fahad Khan Raj
 ID: 20101250
-Sec: 01
+Sec: 01 )
 
-Somaya al sadia rahman
+( Somaya al sadia rahman
 ID: 20101560
-Sec: 01
+Sec: 01 )
 
-Radoan Sharkar
+( Radoan Sharkar
 ID: 20101263
-Sec: 02
+Sec: 02 )
 
 
 
