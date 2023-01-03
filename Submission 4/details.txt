@@ -1,0 +1,42 @@
+Unlisted youtube video:
+
+
+Conference submitted paper / paper submission / login Link:
+
+
+
+Paper title:
+Analyzing Taste from Review Word Choices using Natural Language Processing
+
+
+Paper presentation (anyone can view without login):
+
+
+Paper submission date (to workshop/conference):
+3rd January, 2023
+
+Paper submission ID: 22 (received) from conference/workshop
+
+
+Conference Name:
+Iccta
+
+Conference URL:
+http://www.iccta.net/cfp.html
+
+Group Number:
+01
+
+Group Members:
+
+Fahad Khan Raj
+ID: 20101250
+Sec: 01
+
+Somaya al sadia rahman
+ID: 20101560
+Sec: 01
+
+Radoan Sharkar
+ID: 20101263
+Sec: 02
