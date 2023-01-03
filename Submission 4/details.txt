@@ -35,3 +35,12 @@ Sec: 01
 Radoan Sharkar
 ID: 20101263
 Sec: 02
+
+
+
+
+
+Analyzing Taste from Review Word Choices using Natural Language Processing
+
+Github: https://github.com/fahadkhanraj/CSE431/tree/main/Submission%204
+Overleaf: https://www.overleaf.com/read/ytynxzbhrrjh
