@@ -1,2 +1,5 @@
-Selection Topic: Food Review Analysis in NLP
+Analyzing Taste from Review Word Choices using Natural Language Processing
+
+Github: https://github.com/fahadkhanraj/CSE431/tree/main/Submission%204
+Overleaf: https://www.overleaf.com/read/ytynxzbhrrjh
 
