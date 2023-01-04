@@ -1,7 +1,7 @@
 Conference submitted paper / paper submission / login Link:
 
 https://cmt3.research.microsoft.com/ICCTA2023/Submission/Summary/22
-https://easychair.org/conferences/submission?submission=6341220;a=30124370
+
 
 
 
@@ -13,15 +13,14 @@ Paper submission date (to workshop/conference):
 3rd January, 2023
 
 Paper submission ID: 22 for ICCTA 
-3775 for easychair
+
 
 Conference Name:
 Iccta
-easychair
+
 
 Conference URL:
 http://www.iccta.net/cfp.html
-https://easychair.org/conferences/?conf=jcdl2023
 
 
 
